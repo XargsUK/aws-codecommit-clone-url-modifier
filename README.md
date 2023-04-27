@@ -41,4 +41,4 @@ I welcome contributions to this project! To get started, please follow these ste
 
 Before submitting a pull request, please ensure that your code has been linted with [JavaScript Standard Style](https://standardjs.com/). You can use the command `npx standard`. This will check your code for any potential errors or style violations. Pull requests are automatically linted once opened.
 
-If you have any questions or run into any issues while contributing, please feel free to [create an issue](https://github.com/XargsUK/aws-codecommit-clone-url-modifier/issues/new).
+If you have any questions or run into any issues while contributing, please feel free to [create an issue](https://github.com/XargsUK/aws-codecommit-clone-url-modifier/issues/new). Thanks!
